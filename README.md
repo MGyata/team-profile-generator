@@ -4,7 +4,7 @@ A Node.js command-line application that takes in information about employees on 
  
 ### App Demo
 
-![](images/profile-generator.gif)
+![](images/profile-generator.gif.gif)
 
 
 ### User Story
