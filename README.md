@@ -6,9 +6,6 @@ A Node.js command-line application that takes in information about employees on 
 
 ![](images/profile-generator.gif)
 
-### Link to mp4
-
-[The complete demo](images/team-profile-generator.mp4)
 
 ### User Story
 
